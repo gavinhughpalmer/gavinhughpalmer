@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Gavin Palmer, a Salesforce Architect, currently working for a small consultancy in the UK. A lot of my projects are centred around Salesforce, either applications built on the Salesforce platform or tooling around the platform. 
+I am Gavin Palmer, a Salesforce Architect. A lot of my projects are centred around Salesforce, either applications built on the Salesforce platform or tooling around the platform. 
 
 
 <p align="center">
